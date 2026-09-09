@@ -790,7 +790,7 @@ LinkedIn + Instagram + Twitter Content
 
 ## 👨‍💻 Author
 
-**Karthii**
+**Navyasree**
 
 This project was developed as a practical implementation of Generative AI and Agentic AI concepts.
 
@@ -807,14 +807,6 @@ This project was developed as a practical implementation of Generative AI and Ag
 
 ---
 
-## 📄 License
-
-This project is intended for educational and demonstration purposes.
-
-If you plan to distribute or reuse the project publicly, add an appropriate open-source license to the repository.
-
----
-
 ## ⭐ Acknowledgements
 
 This project uses the following technologies and services:
@@ -827,18 +819,5 @@ This project uses the following technologies and services:
 
 ---
 
-## 📬 Support
 
-If you encounter an issue while running the project:
 
-1. Verify that Python and all dependencies are installed.
-2. Verify that the Gemini API key is correctly configured.
-3. Check that the YouTube Video ID is valid.
-4. Check the application logs for API or deployment errors.
-5. Open an issue in the GitHub repository with relevant error details.
-
----
-
-## ⭐ Project
-
-If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
